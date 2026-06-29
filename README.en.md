@@ -1,72 +1,72 @@
 <!-- ====== LANGUAGE SWITCH ====== -->
 <p align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-000000?style=flat-square" alt="Español"/></a>
-  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-f0f0f0?style=flat-square&labelColor=f0f0f0&color=f0f0f0&logoColor=000000" alt="English"/></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-f0f0f0?style=flat-square&labelColor=f0f0f0&color=f0f0f0" alt="Español"/></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-000000?style=flat-square" alt="English"/></a>
 </p>
 
 <!-- ====== HERO BANNER ====== -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Luis Alberto Gómez Ruiz — Ingeniero Senior de Desarrollo" width="100%"/>
+  <img src="./assets/banner_en.png" alt="Luis Alberto Gómez Ruiz — Senior Software Engineer" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luisgomezring"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:luchogr23@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://github.com/luisgr97"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Cali_·_Colombia-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación"/>
+  <img src="https://img.shields.io/badge/Cali_·_Colombia-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5%2B%20a%C3%B1os%20de%20experiencia-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Disponible%20para%20proyectos%20freelance-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/5%2B%20years%20of%20experience-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Available%20for%20freelance%20projects-2E7D32?style=flat-square"/>
 </p>
 
 <br/>
 
-<!-- ====== PITCH FREELANCE ====== -->
+<!-- ====== FREELANCE PITCH ====== -->
 <p align="center">
-  <b>Ingeniero de software full-stack disponible para proyectos freelance.</b><br/>
-  Diseño y construyo sistemas backend robustos, interfaces modernas e <b>integraciones de IA</b>:<br/>
-  APIs, microservicios, plataformas regulatorias, agentes de IA y modelos de deep learning.<br/>
+  <b>Full-stack software engineer available for freelance projects.</b><br/>
+  I design and build robust backend systems, modern interfaces, and <b>AI integrations</b>:<br/>
+  APIs, microservices, regulatory platforms, AI agents, and deep learning models.<br/>
   <br/>
-  <b>¿Tienes un proyecto en mente?</b> Llevo tu idea de la arquitectura al despliegue.
+  <b>Got a project in mind?</b> I take your idea from architecture to deployment.
 </p>
 
 <p align="center">
-  <a href="mailto:luchogr23@gmail.com"><img src="https://img.shields.io/badge/Solicitar%20presupuesto%20→-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto"/></a>
+  <a href="mailto:luchogr23@gmail.com"><img src="https://img.shields.io/badge/Request%20a%20quote%20→-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
 
 <br/>
 
-<!-- ====== HOJA DE VIDA ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  HOJA DE VIDA  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<!-- ====== RESUME ====== -->
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  RESUME  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
 <p align="center">
-  Para quienes deseen profundizar en mi experiencia profesional:<br/><br/>
-  <a href="./cv/CV_Luis_Gomez_ES.pdf"><img src="https://img.shields.io/badge/📄%20Descargar%20CV%20(Español)-000000?style=for-the-badge" alt="CV ES"/></a>
+  For those who want to dive deeper into my professional experience:<br/><br/>
   <a href="./cv/CV_Luis_Gomez_EN.pdf"><img src="https://img.shields.io/badge/📄%20Download%20CV%20(English)-000000?style=for-the-badge" alt="CV EN"/></a>
+  <a href="./cv/CV_Luis_Gomez_ES.pdf"><img src="https://img.shields.io/badge/📄%20Descargar%20CV%20(Español)-000000?style=for-the-badge" alt="CV ES"/></a>
 </p>
 
 <br/>
 
-<!-- ====== EXPERIENCIA ACTUAL ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  EXPERIENCIA ACTUAL  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<!-- ====== CURRENT EXPERIENCE ====== -->
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  CURRENT EXPERIENCE  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
 <p align="center">
-  <b>Ingeniero Senior de Desarrollo</b> · Carvajal Tecnología y Servicios<br/>
-  <sub>2025 — Actualidad</sub>
+  <b>Senior Software Development Engineer</b> · Carvajal Tecnología y Servicios<br/>
+  <sub>2025 — Present</sub>
 </p>
 
 <p align="center">
-Desarrollo de <b>Kumbre</b>, plataforma de recepción de facturas electrónicas con operación en<br/>
-🇨🇴 Colombia · 🇲🇽 México · 🇵🇪 Perú · 🇸🇻 El Salvador · 🇺🇸 Estados Unidos<br/>
-Backend en Java/Spring Boot · Frontend en Angular y React · Integración de LLMs y agentes de IA.
+Building <b>Kumbre</b>, an electronic invoice reception platform operating across<br/>
+🇨🇴 Colombia · 🇲🇽 Mexico · 🇵🇪 Peru · 🇸🇻 El Salvador · 🇺🇸 United States<br/>
+Backend in Java/Spring Boot · Frontend in Angular & React · LLMs and AI agents integration.
 </p>
 
 <br/>
 
 <!-- ====== STACK ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  STACK TECNOLÓGICO  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  TECH STACK  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
 <table align="center">
 <tr>
@@ -94,20 +94,20 @@ Backend en Java/Spring Boot · Frontend en Angular y React · Integración de LL
 </td>
 <td align="center" width="33%">
 
-**IA & Datos**
+**AI & Data**
 
 ![scikit](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TF](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=flat-square&logo=keras&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=flat-square&logo=ollama&logoColor=white)
-![LLM](https://img.shields.io/badge/LLMs_·_Agentes-1a1a1a?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs_·_Agents-1a1a1a?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-**Nube & DevOps**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
@@ -117,7 +117,7 @@ Backend en Java/Spring Boot · Frontend en Angular y React · Integración de LL
 </td>
 <td align="center">
 
-**Datos**
+**Data**
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=white)
@@ -126,7 +126,7 @@ Backend en Java/Spring Boot · Frontend en Angular y React · Integración de LL
 </td>
 <td align="center">
 
-**Seguridad & Tooling**
+**Security & Tooling**
 
 ![OWASP](https://img.shields.io/badge/OWASP_·_ASVS-1a1a1a?style=flat-square&logo=owasp&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
@@ -138,23 +138,23 @@ Backend en Java/Spring Boot · Frontend en Angular y React · Integración de LL
 
 <br/>
 
-<!-- ====== PROYECTOS ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  PROYECTOS DESTACADOS  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<!-- ====== PROJECTS ====== -->
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  FEATURED PROJECTS  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 #### 🤖 TutorIA
-Chatbot **RAG** sobre manuales internos para soporte técnico, construido sobre Java/Spring Boot con recuperación semántica y LLMs.
+**RAG** chatbot over internal manuals for technical support, built on Java/Spring Boot with semantic retrieval and LLMs.
 
 `Java` `Spring Boot` `RAG` `LLMs`
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚽ Análisis de Fútbol (Tesis)
-Comparación de arquitecturas **MLP / LSTM / híbridas** con métricas avanzadas (xG, PPDA, posesión ajustada) en ligas europeas 2018–2025.
+#### ⚽ Football Analytics (Thesis)
+Comparison of **MLP / LSTM / hybrid** architectures with advanced metrics (xG, PPDA, adjusted possession) across European leagues 2018–2025.
 
 `Python` `TensorFlow` `Keras`
 
@@ -163,16 +163,16 @@ Comparación de arquitecturas **MLP / LSTM / híbridas** con métricas avanzadas
 <tr>
 <td width="50%" valign="top">
 
-#### 🔍 Detección de Fraude
-Sistema de **detección de anomalías con autoencoders**, alcanzando un ROC AUC de 0.98 sobre transacciones financieras.
+#### 🔍 Fraud Detection
+**Anomaly detection with autoencoders**, reaching a 0.98 ROC AUC over financial transactions.
 
 `Python` `Keras` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧪 Lab de IA Local
-Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alternar entre LLMs locales y APIs y optimizar costos.
+#### 🧪 Local AI Lab
+Development environment with **Ollama + Qwen** and **Spec-Driven** workflows to switch between local LLMs and APIs to optimize costs.
 
 `Ollama` `OpenCode` `Continue.dev`
 
@@ -182,10 +182,10 @@ Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alt
 
 <br/>
 
-<!-- ====== CERTIFICADOS ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  CERTIFICADOS  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<!-- ====== CERTIFICATES ====== -->
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  CERTIFICATES  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
-<p align="center"><sub>Formación continua agrupada por plataforma y categoría · <a href="./certificados">ver todos los archivos</a></sub></p>
+<p align="center"><sub>Continuous learning grouped by platform and category · <a href="./certificados">view all files</a></sub></p>
 
 <table align="center" width="100%">
 <tr>
@@ -194,11 +194,11 @@ Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alt
 <h4 align="center">🟣 Udemy</h4>
 
 **Backend**
-- Node: De cero a experto · <sub>28.5 h</sub>
+- Node: From Zero to Expert · <sub>28.5 h</sub>
 - Spring Framework
 
 **Cloud / Serverless**
-- Introducción a Serverless, Lambdas y API Gateway con AWS · <sub>3.5 h</sub>
+- Introduction to Serverless, Lambdas & API Gateway with AWS · <sub>3.5 h</sub>
 
 </td>
 <td valign="top" width="50%">
@@ -210,7 +210,7 @@ Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alt
 
 <h4 align="center">🔵 IBM</h4>
 
-**Inteligencia Artificial**
+**Artificial Intelligence**
 - AI Developer (Coursera)
 
 </td>
@@ -220,26 +220,26 @@ Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alt
 
 <h4 align="center">🔴 Google</h4>
 
-**Cloud / Fundamentos**
-- <sub>(agregar certificado)</sub>
+**Cloud / Fundamentals**
+- <sub>(add certificate)</sub>
 
 <h4 align="center">🟢 Cisco</h4>
 
-**Redes / Seguridad**
-- <sub>(agregar certificado)</sub>
+**Networking / Security**
+- <sub>(add certificate)</sub>
 
 </td>
 <td valign="top" width="50%">
 
 <h4 align="center">🟡 Coursera</h4>
 
-**Inteligencia Artificial / Desarrollo**
+**Artificial Intelligence / Development**
 - IBM AI Developer
 
 <h4 align="center">🟦 Platzi</h4>
 
-**Desarrollo / Fundamentos**
-- <sub>(agregar certificados)</sub>
+**Development / Fundamentals**
+- <sub>(add certificates)</sub>
 
 </td>
 </tr>
@@ -248,12 +248,12 @@ Entorno de desarrollo con **Ollama + Qwen** y workflows **Spec-Driven** para alt
 <br/>
 
 <!-- ====== CTA ====== -->
-<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  ¿TRABAJAMOS JUNTOS?  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  LET'S WORK TOGETHER  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
 <p align="center">
-  Desarrollo backend · APIs · Frontend · Integraciones de IA · Arquitectura cloud<br/><br/>
-  <a href="mailto:luchogr23@gmail.com"><img src="https://img.shields.io/badge/Escríbeme%20→-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto"/></a>
+  Backend development · APIs · Frontend · AI integrations · Cloud architecture<br/><br/>
+  <a href="mailto:luchogr23@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch%20→-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
   <a href="https://www.linkedin.com/in/luisgomezring"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p align="center"><sub>Idiomas: Español (nativo) · Inglés (B1) · Portugués (A1)</sub></p>
+<p align="center"><sub>Languages: Spanish (native) · English (B1) · Portuguese (A1)</sub></p>
